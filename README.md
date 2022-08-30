@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallah-mekky&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-mekky" /> </p>
 
-- 🔭 I’m currently working **As Freelancer**
+- 🔭 I’m currently working **As Freelancer.**
 
 - 💬 Ask me about **anything about android development.**
 
