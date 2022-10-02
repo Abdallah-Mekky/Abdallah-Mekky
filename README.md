@@ -2,7 +2,8 @@
 
 <h3 align="center">I'm native android developer (java & kotlin).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallah-mekky&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-mekky" /> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abdallah-mekky)
+![GitHub followers](https://img.shields.io/github/followers/abdallah-mekky?style=social)
 
 - 🔭 I’m currently working **As Freelancer.**
 
@@ -20,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallah-mekky&show_icons=true&locale=en&layout=compact" alt="abdallah-mekky" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallah-mekky&show_icons=true&locale=en" alt="abdallah-mekky" /></p>
+
+<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=abdallah-mekky" />
