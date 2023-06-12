@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm native android developer (java & kotlin).</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abdallah-mekky)
+
 ![GitHub followers](https://img.shields.io/github/followers/abdallah-mekky?style=social)
 
 - 🔭 I’m currently working **As Freelancer.**
